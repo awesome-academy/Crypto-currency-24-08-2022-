@@ -1,4 +1,4 @@
-package com.example.cryptocurrency
+package com.hmdlong14.cryptocurrency
 
 import org.junit.Test
 
